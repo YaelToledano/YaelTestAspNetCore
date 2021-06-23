@@ -6,7 +6,7 @@
 # Disable SSL certificate verification
 # url:
 # https: // localhost: 44330 / api / Calculators /
-
+# 
 # Post
 # Post-> Body-> raw-> Json
 # Send this object in Boy
@@ -16,14 +16,14 @@
 #      "num2": "13",
 #      "result": "0"
 #    }
-   
+#    
 # Get
 # Get -> by url
-
+# 
 # Get by id
 # change the url:
 # https: // localhost: 44330 / api / Calculators / 1
-
+# 
 # Upate
 # Put-> Body-> raw-> Json
 # Send this object in Boy
